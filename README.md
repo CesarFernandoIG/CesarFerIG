@@ -1,3 +1,4 @@
+// English
 - 👋 Hi all, I’m @CesarFerIG
 - 🌎 I'm from Mexico
 - 🎓 I'm studying
@@ -7,6 +8,7 @@
 - 📫 You can contact me in my email: cesarferig.correo@gmail.com
 - 💖 And also you can follow me on my social network, you find me like CesarFerIG
 
+// Español
 - 👋 Hola a todos, soy @CesarFerIG
 - 🌎 Soy de México
 - 🎓 Estoy estudiando
