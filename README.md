@@ -1,6 +1,4 @@
 - 👋 Hi all, I’m @CesarFerIG
-- 🌎 I'm from Mexico
-- 🎓 I'm studying
 - 👀 I’m interested in the technology, web development and application development
 - 🌱 I’m currently learning NodeJS and PHP
 - 💞️ I’m looking to collaborate any project
